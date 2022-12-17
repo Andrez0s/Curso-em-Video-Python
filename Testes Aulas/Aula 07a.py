@@ -16,4 +16,4 @@ d = n1 / n2
 di = n1 // n2
 e = n1 ** n2
 print(f'A soma vale {s},\no produto é {m},\na divisão é {d:.2f},', end='')
-print(f'a divisão inteira é {di},\ne a exponenciação é {e}.')
+print(f'a divisão inteira é {di},\ne a exponenciação é {e:.2f}.')
